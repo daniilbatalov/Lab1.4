@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605432803 source:d:\языки программировани€\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<limits.h>
+	<time.h>
+
+1605510911 source:j:\языки программировани€\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<limits.h>
+	<time.h>
+
